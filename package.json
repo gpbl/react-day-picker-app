@@ -22,6 +22,7 @@
   "dependencies": {
     "babel-loader": "^8.2.4",
     "react": "^17.0.0",
+    "react-day-picker": "^7.4.10",
     "react-dom": "^17.0.0"
   }
 }
